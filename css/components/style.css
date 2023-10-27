@@ -1,0 +1,21 @@
+@import url('https://fonts.googleapis.com/css2?family=Noto+Serif:wght@300;500&family=Ubuntu:wght@300;400;700&display=swap');
+
+@import url("container.css");
+@import url("avatar.css");
+@import url("button.css");
+@import url("banner.css");
+@import url("card.css");
+
+body {
+	font-family: 'Noto Serif', serif;
+	font-size: 18px;
+	color: white;
+	background-color: #008170;
+}
+h3 {
+	font-family: 'Ubuntu', sans-serif;
+	font-weight: lighter;
+}
+a {
+	text-decoration: none;
+}
